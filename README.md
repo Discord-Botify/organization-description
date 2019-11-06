@@ -20,5 +20,8 @@ Right now we send all our notifications through private messages in [Discord](ht
 
 
 ## Do I really need more notifications in my life?
+We at Botify know how frustrating it is to receive endless notifications that aren't relevant to you. That's why **we allow you control over what notifications you receive.** When you connect to our app through Spotify, you are opted-in to receive album and single release notifications on the artists you follow. But what if you only care about albums? It's easy to select which kind of updates you want to receive.
 
-We at Botify know how frustrating it is to receive endless notifications that aren't relevant to you. That's why **we allow you control over what notifications you receive.** When you connect to our app through Spotify, you are opted-in to receive album and single release notifications on the artists you follow. But what if you only care about albums? It's easy to 
+
+## I want to use this right now!
+Hold up, it's not done yet! We're working on it as fast as we can, and hopefully we can get things up pretty quick! In the meantime, any questions and advice can be forwarded to `rotunomp@miamioh.edu`
