@@ -1,3 +1,4 @@
+# https://botify.michaelrotuno.dev
 # What is this?
 
 Users of **Spotify** are left out of a simple but essential piece of functionality: ***As a Spotify User, I want to know when an artist I follow releases something new.*** Spotify has what is known as the **Release Radar,** which is a curated playlist containing new music of your followed artists. There are three main issues with this, though:
@@ -20,8 +21,11 @@ Right now we send all our notifications through private messages in [Discord](ht
 
 
 ## Do I really need more notifications in my life?
-We at Botify know how frustrating it is to receive endless notifications that aren't relevant to you. That's why **we allow you control over what notifications you receive.** When you connect to our app through Spotify, you are opted-in to receive album and single release notifications on the artists you follow. But what if you only care about albums? It's easy to select which kind of updates you want to receive.
+We at Botify know how frustrating it is to receive endless notifications that aren't relevant to you. That's why **we allow you control over what notifications you receive.** When you connect to our app through Spotify, you are opted-in to receive album and single release notifications on the artists you follow. If you don't want to follow certain artists, It's easy to opt-out of individual artists through our web client, or even through our Discord interface.
 
 
 ## I want to use this right now!
-Hold up, it's not done yet! We're working on it as fast as we can, and hopefully we can get things up pretty quick! In the meantime, any questions and advice can be forwarded to `rotunomp@miamioh.edu`
+Well you can! Botify is currently in a beta testing phase, and you can [try it out for free](https://botify.michaelrotuno.dev).
+
+## I have an idea to make this better
+We're always open to suggestions. Our [Discord server](https://discord.gg/868xdrY) has a channel for this, which is the preferred method of communicating. You can also email `michaelprotuno@gmail.com` if you wish to.
