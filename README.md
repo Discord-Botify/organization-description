@@ -1,4 +1,4 @@
-# https://botify.michaelrotuno.dev
+# [Join the beta test](https://botify.michaelrotuno.dev)
 # What is this?
 
 Users of **Spotify** are left out of a simple but essential piece of functionality: ***As a Spotify User, I want to know when an artist I follow releases something new.*** Spotify has what is known as the **Release Radar,** which is a curated playlist containing new music of your followed artists. There are three main issues with this, though:
