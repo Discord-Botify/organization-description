@@ -25,7 +25,7 @@ We at Botify know how frustrating it is to receive endless notifications that ar
 
 
 ## I want to use this right now!
-Well you can! Botify is currently in a beta testing phase, and you can [try it out for free](https://botify.michaelrotuno.dev).
+Well you can! Botify is currently in a alpha testing phase, and you can [try it out for free](https://botify.michaelrotuno.dev).
 
 ## I have an idea to make this better
 We're always open to suggestions. Our [Discord server](https://discord.gg/868xdrY) has a channel for this, which is the preferred method of communicating. You can also email `michaelprotuno@gmail.com` if you wish to.
