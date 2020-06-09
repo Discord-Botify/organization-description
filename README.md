@@ -10,7 +10,7 @@ Users of **Spotify** are left out of a simple but essential piece of functionali
 
 
 ## Wow! Amazing! But I don't use Spotify...
-Do you think Botify cares? ***You can use Botify even if you don't have a Spotify account.***
+Do you think Botify cares? ***You can use Botify even if you don't have a Spotify account.*** Through either our clever Discord interface or our web client, you can hand-pick artists you want to follow.
 
 
 ## Sounds cool! How do the notifications work?
